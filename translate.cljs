@@ -1,4 +1,3 @@
-
 (ns translate-demo
   (:require [reagent.core :as r]
             [roam.datascript :as rd]))
